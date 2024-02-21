@@ -1,4 +1,6 @@
-package org.example.StackandQueue;
+package org.example.StackandQueue.UsingArray;
+
+import org.example.StackandQueue.IStackQueue;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

@@ -1,4 +1,6 @@
-package org.example.StackandQueue;
+package org.example.StackandQueue.UsingArray;
+
+import org.example.StackandQueue.UsingArray.MyQueueUsingArray;
 
 public class Main {
 	public static void main(String[] args) {
